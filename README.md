@@ -1,16 +1,13 @@
-## Hi there 👋
+# Account Details
+👤 **Alias:** Alice Lilith Ravenbaum | References(1): [[Revy](https://lagooncompany.fandom.com/wiki/Revy)]
 
-<!--
-**lili-ravenbaum/lili-ravenbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📡 Incoming Transmission
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Track me on-chain.  
+Trust no one.  
+Run your node.  
+Stay sharp.
+
+---
